@@ -1,0 +1,25 @@
+{
+  "name": "fullstackopen-phonebook-backend",
+  "version": "1.0.0",
+  "description": "Assignment project for FullstackOpen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrtnOmwenga/FullstackOpen-Phonebook-Backend.git"
+  },
+  "author": "MrtnOmwenga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrtnOmwenga/FullstackOpen-Phonebook-Backend/issues"
+  },
+  "homepage": "https://github.com/MrtnOmwenga/FullstackOpen-Phonebook-Backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
