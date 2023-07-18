@@ -20,7 +20,10 @@
   "homepage": "https://github.com/MrtnOmwenga/FullstackOpen-Phonebook-Backend#readme",
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
     "express": "^4.18.2",
+    "mongodb": "^5.7.0",
+    "mongoose": "^7.3.4",
     "morgan": "^1.10.0"
   },
   "devDependencies": {
